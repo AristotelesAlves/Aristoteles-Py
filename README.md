@@ -4,4 +4,5 @@
 [![(Linkedin)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aristoteles-aleves-de-oliveira-ab8089226/)
 
 
-![Aristóteles GitHub stats](https://github-readme-stats.vercel.app/api?username=Aristoteles-py&show_icons=true&theme=transparent)
+![Aristóteles GitHub stats](https://github-readme-stats.vercel.app/api?username=Aristoteles-Py&theme=blue-green)
+![Skils](	https://github-readme-stats.vercel.app/api/top-langs/?username=Aristoteles-Py&theme=blue-green)

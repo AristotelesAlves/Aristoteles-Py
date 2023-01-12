@@ -3,4 +3,4 @@
 [![(Instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aristoteles269/)
 [![(Linkedin)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aristoteles-aleves-de-oliveira-ab8089226/)
 
-![Aristoteles Status](https://github-readme-stats.vercel.app/api?username=Aristoteles-Py}&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoteles-py&show_icons=true&theme=radical)
